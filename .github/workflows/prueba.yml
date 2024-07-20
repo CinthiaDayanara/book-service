@@ -28,4 +28,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: dayanara1898/create-task1:latest
+          tags: dayanara1898/book-service:latest
